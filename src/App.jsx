@@ -1,4 +1,5 @@
 import './App.css'
+import './components/animations.css'
 import HeaderComponent from './components/HeaderComponent'
 import FooterComponent from './components/FooterComponent'
 import { BrowserRouter, Routes, Route, Navigate} from 'react-router-dom'
